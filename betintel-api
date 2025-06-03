@@ -1,0 +1,9 @@
+betintel_ml_api.py
+model_rf.pkl
+requirements.txt 
+fastapi
+uvicorn
+pydantic
+joblib
+pandas
+scikit-learn
