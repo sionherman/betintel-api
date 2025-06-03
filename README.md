@@ -1,1 +1,2 @@
 # betintel-api
+render.yaml
